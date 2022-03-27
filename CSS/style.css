@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+header {
+    align-items: center;
+    font-family: 'Ubuntu', sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(255,0,204,1) 40%, rgba(51,51,153,1) 120%);
+    color: azure;
+    height: 300px;
+    width: 1000px;
+    padding-top: 50px;
+    padding-bottom:20px;
+    text-align: center;
+    
+       
+}
+.size-1 {
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+}
+.size-2 {
+    font-size: 2em;
+    font-family: 'Libre Baskerville', serif;
+    padding-bottom: 20px;
+    width: auto;
+    height: 30px;
+}
+main{
+    text-align: center;
+    font-size:1em;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(0,219,222,1) 40%, rgba(252,0,255,1) 120%);
+    
+}
+.clearfix{
+    overflow: auto;
+}
+.bold-1 {
+    font-style: oblique;
+    color: blue;
+}
